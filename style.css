@@ -1,0 +1,28 @@
+body{
+    background-image: linear-gradient(to left,pink,white,pink);
+}
+#header{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+table,th,td{
+    border: 2px solid black ;
+    text-align: center;
+    padding: 8px;
+    border-collapse: collapse;
+}
+th{
+    color: red;
+}
+#table_center{
+    margin-left: auto;
+    margin-right: auto;
+}
+/* #menu_table{
+    padding: 10px;
+    border-collapse: collapse;
+    border-radius: 100px;
+    box-shadow: 5px 10px antiquewhite; 
+} */
